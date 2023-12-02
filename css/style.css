@@ -26,10 +26,3 @@ body {
 .text-start .bi {
   font-size: 1.3rem;
 }
-
-.col-12 .fi {
-  background-color: #212529;
-  background-size: contain;
-  background-position: 50%;
-  background-repeat: no-repeat;
-}
