@@ -1,0 +1,35 @@
+body {
+  font-family: Poppins;
+}
+
+
+.jumbotron {
+  padding: 5rem 1rem;
+}
+
+.jumbotron2 {
+  padding: 1.5rem 1rem;
+}
+
+.kartu .container {
+  padding: 2rem 1rem;
+}
+
+.jumbotron3 {
+  padding: 1rem 1rem;
+}
+
+.kartu2 .container {
+  padding: 1.5rem 1rem;
+}
+
+.text-start .bi {
+  font-size: 1.3rem;
+}
+
+.col-12 .fi {
+  background-color: #212529;
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
